@@ -19,7 +19,7 @@
     "moment": "^2.24.0",
     "native-base": "^2.13.8",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-callkeep": "^3.0.10",
     "react-native-card-stack-swiper": "^1.2.4",
     "react-native-emoji-input": "^1.1.10",
